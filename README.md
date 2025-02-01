@@ -50,6 +50,8 @@ Welcome to my Budget Buddy Website! This application allows you to efficiently m
 - Visual Representation: Visualize your financial data with interactive doughnut charts. Gain insights into your expenditure and income distribution at a glance.
 - Custom Category Creation : Create your own categoies for expenses and incomes.
 
+---
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React
@@ -67,9 +69,6 @@ You can explore Podcastr live by visiting the website:
 
 ### 📸 Screenshot
 ![image](https://github.com/iamvishalrathi/Expense-Tracker/blob/main/public/live.png)
-
----
-
 
 ---
 
