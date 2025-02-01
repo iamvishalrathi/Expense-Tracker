@@ -1,9 +1,11 @@
 <p align="center">
-    <img src="https://github.com/iamvishalrathi/Expense-Tracker/blob/main/public/favicon.png" align="center" width="30%">
+  <img src="https://github.com/iamvishalrathi/Expense-Tracker/blob/main/public/favicon.png" width="50">
 </p>
-<p align="center"><h1 align="center">Budget Buddy</h1></p>
 <p align="center">
-	<em><code>❯ Expense Manager</code></em>
+    <h1 align="center">Budget Buddy</h1>
+</p>
+<p align="center">
+    <em><code><a href="https://my-budget-buddy.netlify.app/">❯ Live</a></code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/iamvishalrathi/Expense-Tracker?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
