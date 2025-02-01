@@ -39,7 +39,7 @@
 
 ## 📍 Overview
 
-Welcome to my Money Tracker Website! This application allows you to efficiently manage your expenses and incomes across various categories. With a user-friendly interface and robust features, you can track your financial activities seamlessly.
+Welcome to my Budget Buddy Website! This application allows you to efficiently manage your expenses and incomes across various categories. With a user-friendly interface and robust features, you can track your financial activities seamlessly.
 
 ---
 
@@ -48,7 +48,32 @@ Welcome to my Money Tracker Website! This application allows you to efficiently 
 - Expense and Income Management: Record your expenses and incomes effortlessly. Categorize them to maintain a structured overview of your financial transactions.
 - History Tracking: Keep track of your past expenses and incomes. Access detailed transaction history to analyze your spending patterns over time.
 - Visual Representation: Visualize your financial data with interactive doughnut charts. Gain insights into your expenditure and income distribution at a glance.
-- Custom Category Creation : Create your own categoies for expenses and incomes .
+- Custom Category Creation : Create your own categoies for expenses and incomes.
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- Next.js
+- TypeScript
+- Convex
+- OpenAI
+- Clerk
+- ShadCN
+- Tailwind CSS
+- Freepik
+
+---
+
+## 🔍 Website Preview
+
+You can explore Podcastr live by visiting the website:
+
+[**Podcastr - Preview the App**](https://podcastr-two-rho.vercel.app/)
+
+### 📸 Screenshot
+![image](https://github.com/iamvishalrathi/Podcastr/blob/main/public/sns.png)
+
+---
+
 
 ---
 
