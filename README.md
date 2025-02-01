@@ -1,9 +1,9 @@
 <p align="center">
     <img src="https://github.com/iamvishalrathi/Expense-Tracker/blob/main/public/favicon.png" align="center" width="30%">
 </p>
-<p align="center"><h1 align="center">EXPENSE-TRACKER</h1></p>
+<p align="center"><h1 align="center">Budget Buddy</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ Expense Manager</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/iamvishalrathi/Expense-Tracker?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -351,17 +351,3 @@ Run the test suite using the following command:
    </a>
 </p>
 </details>
-
----
-
-## 🎗 License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
