@@ -63,7 +63,7 @@ Welcome to my Budget Buddy Website! This application allows you to efficiently m
 
 ## 🔍 Website Preview
 
-You can explore Podcastr live by visiting the website:
+You can explore Budget Buddy live by visiting the website:
 
 [**Budget Buddy - Preview the App**](https://my-budget-buddy.netlify.app/)
 
