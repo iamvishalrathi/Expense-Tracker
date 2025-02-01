@@ -52,14 +52,10 @@ Welcome to my Budget Buddy Website! This application allows you to efficiently m
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- TypeScript
-- Convex
-- OpenAI
-- Clerk
-- ShadCN
-- Tailwind CSS
-- Freepik
+- React
+- Chart.js (react-chart2 npm package)
+- UseContext hook to manage the state of the application and local storage
+- Material UI
 
 ---
 
@@ -67,10 +63,10 @@ Welcome to my Budget Buddy Website! This application allows you to efficiently m
 
 You can explore Podcastr live by visiting the website:
 
-[**Podcastr - Preview the App**](https://podcastr-two-rho.vercel.app/)
+[**Budget Buddy - Preview the App**](https://my-budget-buddy.netlify.app/)
 
 ### 📸 Screenshot
-![image](https://github.com/iamvishalrathi/Podcastr/blob/main/public/sns.png)
+![image](https://github.com/iamvishalrathi/Expense-Tracker/blob/main/public/live.png)
 
 ---
 
