@@ -20,7 +20,7 @@ export default function Main(){
 
     return (
         <Card >
-            <CardHeader align="center" title="Money Tracker" subheader="Your Path to Financial Clarity" sx={{padding:'10px 0 0 0'}} />
+            <CardHeader align="center" title="Budget Buddy" subheader="Your Path to Financial Clarity" sx={{padding:'10px 0 0 0'}} />
             
             <CardContent>
             <Typography align="center" variant="h5" mb="10px" >Total Balance ₹{balance} {balance!=0 ? balance>0 ? <ArrowUpwardIcon color="primary" fontSize="large" /> : <ArrowDownwardIcon color="error" fontSize="large" /> : <></>} </Typography>
